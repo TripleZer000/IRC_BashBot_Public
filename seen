@@ -1,0 +1,34 @@
+#!bin/bash
+#!user/bin/bash
+
+seen(){
+	str="$1"
+
+	sen=$(tac log.txt | grep -m2 ":$str!")
+  if [[ "$sen" == *"+:$str!+"* ]]
+  then
+		las=$(echo $sen | perl -pe "s/.*?(\[.*?\]:.*? PRIVMSG #.*? :.*?)\\r.*/\1/")
+		chn=$(echo "$las" | perl -pe "s/.*? (#.*?) :.*/\1/")
+		rel=$(echo "$las" | perl -pe "s/.*? #.*?:(.*)/\1/")
+    ler=$(echo "$rel" | sed 's/.*]: //')
+		dte=$(echo "$las" | perl -pe "s/\[(.*?)\]:.*:.*/\1/")
+		hek=$(date "+%y-%m-%d %T")
+		hel=$(date -u -d @$(($(date -d "$hek" '+%s') - $(date -d "$dte" '+%s'))) '+%HH %MM')
+		echo "$str was in $chn, $hel ago saying \"$ler\" - using Akuma"
+  elif [[ "$sen" == *":$str!"*  ]]
+  	then
+		las=$(echo $sen | perl -pe "s/.*?(\[.*?\]:.*? PRIVMSG #.*? :.*?)\\r.*/\1/")
+		chn=$(echo "$las" | perl -pe "s/.*? (#.*?) :.*/\1/")
+		rel=$(echo "$las" | perl -pe "s/.*? #.*?:(.*)/\1/")
+		dte=$(echo "$las" | perl -pe "s/\[(.*?)\]:$str!.*:.*/\1/")
+		hek=$(date "+%y-%m-%d %T")
+		hel=$(date -u -d @$(($(date -d "$hek" '+%s') - $(date -d "$dte" '+%s'))) '+%HH %MM')
+		echo "$str was in $chn, $hel ago saying \"$rel\""
+  elif [[ "$str" == "Akuma" ]]
+    then
+    echo "Please -seen a nick used by Akuma"
+	else 
+		echo "I have not seen $str"
+  fi
+}
+

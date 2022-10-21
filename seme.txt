@@ -1,0 +1,4 @@
+[19-11-28 00:59:19]:NickServ!services@services.evil MODE Megatron :+r
+[19-11-28 00:59:19]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +ao Megatron :Megatron
+[19-11-28 00:59:23]:PatientZer0!000@EvilCorp49h.ct9.24cvif.IP PRIVMSG #lobby ::P
+[19-11-28 00:59:44]:Akuma!Akuma@Ultimate.Warrior PRIVMSG #lobby :not bad :D .. keep up the good work

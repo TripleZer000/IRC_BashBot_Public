@@ -1,0 +1,468 @@
+Starting session: [21:04:17 16:36:08]
+[21-04-17 16:36:09]CONNECTED(00000003)
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]Certificate chain
+[21-04-17 16:36:09]0 s:/CN=*.evilcorp.ga
+[21-04-17 16:36:09]i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]Server certificate
+[21-04-17 16:36:09]-----BEGIN CERTIFICATE-----
+[21-04-17 16:36:09]MIIFUzCCBDugAwIBAgISBJH3e/3TL3g0Bt6PS1awmhYXMA0GCSqGSIb3DQEBCwUA
+[21-04-17 16:36:09]MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+[21-04-17 16:36:09]ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0yMDA5MzAxMzE4NTFaFw0y
+[21-04-17 16:36:09]MDEyMjkxMzE4NTFaMBgxFjAUBgNVBAMMDSouZXZpbGNvcnAuZ2EwggEiMA0GCSqG
+[21-04-17 16:36:09]SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCgjPmuZnuqxa0DrkSCYyIoGgNOO5GXWWJ3
+[21-04-17 16:36:09]UJsQbCU0hdB3tAZ2m/6naJxfVBAyDzxsBbPGk/MP6d/ghQzMomkOvzXs9KexBt3r
+[21-04-17 16:36:09]2YQdYGSvmMZf6ghb8KJX+jbyek6pRLBPqNjWvg2xfXYZFGEnb78e2OI1hQzIJGFZ
+[21-04-17 16:36:09]qxW1oLbgDddTjtBrI5YpC0eJWiBTif0imioq8LEeYJkhejOHIIln2RT3zrQTZmu1
+[21-04-17 16:36:09]Ac3VNUmJqkeoz9XhbnfS1aDuHmWcvNAEJCXoctGDxUWV1K8cmiO1MldMk3QyBDMq
+[21-04-17 16:36:09]noIi1RlY0VIG1nOYOkkDU6ZqnxVQS+VaqQMCc2Onl6vZRtxY4uftAgMBAAGjggJj
+[21-04-17 16:36:09]MIICXzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+[21-04-17 16:36:09]BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBvaDj8CCVPp0cpRzbZPhqr7ec8i
+[21-04-17 16:36:09]MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+[21-04-17 16:36:09]YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+[21-04-17 16:36:09]ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+[21-04-17 16:36:09]Zy8wGAYDVR0RBBEwD4INKi5ldmlsY29ycC5nYTBMBgNVHSAERTBDMAgGBmeBDAEC
+[21-04-17 16:36:09]ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+[21-04-17 16:36:09]bmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3APCVpFnyANGCQBAt
+[21-04-17 16:36:09]L5OIjq1L/h1H45nh0DSmsKiqjrJzAAABdN9hUxIAAAQDAEgwRgIhALJtrgpvPtk3
+[21-04-17 16:36:09]AKiH3nK/G08B+cPf347duHPsuxCz7e7cAiEArJMheRq59r6/yZOY9ZomlBeIE603
+[21-04-17 16:36:09]QFzkJn1KdvUn3kYAdgAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToaadOiHAAA
+[21-04-17 16:36:09]AXTfYVNEAAAEAwBHMEUCIEGczraBE7B1AhWgpM1G7dfEv5SeJ9wLElPyMuDEV8xg
+[21-04-17 16:36:09]AiEA7n8MR3Ruw+6NWYyuaovSDtQgyGH1RFBYJSTyzhJiwTAwDQYJKoZIhvcNAQEL
+[21-04-17 16:36:09]BQADggEBADdettmpKmN5kfGP637RjiUeh1TfIKoa54mqZBUU8V1cWhhzb5twTwBr
+[21-04-17 16:36:09]pMd+OJ3u7I8biOCgPv8bPhQMHLqCu+oDpJ4xoCuzrodUeEyqXJQ6o6i6j+kzNP5h
+[21-04-17 16:36:09]EhF555yZSm0aB/rcFGPywubZ+bRGgP4ZcF8UPmDlB4GdvvIVO1tD7XgOPZGClxnD
+[21-04-17 16:36:09]kMYBsmXom3UQs9rlIYU/07LsN4VKXj/xLwfkY1BCpqTBkp2klDA1LcsDUWtAdes7
+[21-04-17 16:36:09]gzGZUSW/ILOgQl7vR3PBJ0cSeHYV2C5WSncTzEA2xgPjLC1+j/Esu/LBgVN/OBLg
+[21-04-17 16:36:09]2HP/YWoX0AGMSjXbzqhDGZQ1dc6/3y4=
+[21-04-17 16:36:09]-----END CERTIFICATE-----
+[21-04-17 16:36:09]subject=/CN=*.evilcorp.ga
+[21-04-17 16:36:09]issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]Acceptable client certificate CA names
+[21-04-17 16:36:09]/CN=*.evilcorp.ga
+[21-04-17 16:36:09]/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+[21-04-17 16:36:09]Client Certificate Types: RSA sign, DSA sign, ECDSA sign
+[21-04-17 16:36:09]Requested Signature Algorithms: RSA+SHA256:ECDSA+SHA256:RSA+SHA384:ECDSA+SHA384:RSA+SHA512:ECDSA+SHA512:RSA+SHA224:ECDSA+SHA224:RSA+SHA1:ECDSA+SHA1
+[21-04-17 16:36:09]Shared Requested Signature Algorithms: RSA+SHA256:ECDSA+SHA256:RSA+SHA384:ECDSA+SHA384:RSA+SHA512:ECDSA+SHA512:RSA+SHA224:ECDSA+SHA224:RSA+SHA1:ECDSA+SHA1
+[21-04-17 16:36:09]Peer signing digest: SHA512
+[21-04-17 16:36:09]Server Temp Key: ECDH, P-256, 256 bits
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]SSL handshake has read 2015 bytes and written 403 bytes
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+[21-04-17 16:36:09]Server public key is 2048 bit
+[21-04-17 16:36:09]Secure Renegotiation IS supported
+[21-04-17 16:36:09]Compression: NONE
+[21-04-17 16:36:09]Expansion: NONE
+[21-04-17 16:36:09]No ALPN negotiated
+[21-04-17 16:36:09]SSL-Session:
+[21-04-17 16:36:09]Protocol  : TLSv1.2
+[21-04-17 16:36:09]Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+[21-04-17 16:36:09]Session-ID: 6B6340B3AB882B8FA757C98ADF632DAA062EAE1EED6F530A97FCBB8EF36924EB
+[21-04-17 16:36:09]Session-ID-ctx:
+[21-04-17 16:36:09]Master-Key: 9F50D19F461859534253F386C159541DC712C653B4760EE49B6412B1EA12CAF4EF41940C6FC5E92B36DE36137FB24346
+[21-04-17 16:36:09]Key-Arg   : None
+[21-04-17 16:36:09]PSK identity: None
+[21-04-17 16:36:09]PSK identity hint: None
+[21-04-17 16:36:09]SRP username: None
+[21-04-17 16:36:09]Start Time: 1618695368
+[21-04-17 16:36:09]Timeout   : 300 (sec)
+[21-04-17 16:36:09]Verify return code: 21 (unable to verify the first certificate)
+[21-04-17 16:36:09]---
+[21-04-17 16:36:09]:irc.evilcorp.ga NOTICE * :*** Looking up your hostname...
+[21-04-17 16:36:09]:irc.evilcorp.ga NOTICE * :*** Found your hostname (173-31-81-169.client.mchsi.com) -- cached
+[21-04-17 16:36:09]PING :vOz~SBqJt?
+[21-04-17 16:36:09]:irc.evilcorp.ga 001 Megatron :Welcome to the EvilCorp IRC Network Megatron!BASHBOT@173-31-81-169.client.mchsi.com
+[21-04-17 16:36:09]:irc.evilcorp.ga 002 Megatron :Your host is irc.evilcorp.ga, running version InspIRCd-3
+[21-04-17 16:36:09]:irc.evilcorp.ga 003 Megatron :This server was created 13:11:06 Oct 21 2020
+[21-04-17 16:36:09]:irc.evilcorp.ga 004 Megatron irc.evilcorp.ga InspIRCd-3 BGHIRScdghikorswx BCEFGHIJKMNOQRSTXZabcdefghijklmnopqrstuvwyz :EFHIJXZabdefghjkloqvwy
+[21-04-17 16:36:09]:irc.evilcorp.ga 005 Megatron ACCEPT=30 AWAYLEN=200 CALLERID=g CASEMAPPING CHANLIMIT=#:20 CHANMODES=IXZbegw,k,EFHJdfjl,BCGKMNOQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXCEPTS=e EXTBAN=,BCNOQRSTUcjmz HOSTLEN=64 :are supported by this server
+[21-04-17 16:36:09]:irc.evilcorp.ga 005 Megatron INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=IXbegw:10000 MAXTARGETS=20 MODES=20 NETWORK=EvilCorp NICKLEN=30 OPERLOG PREFIX=(yqaohv)!~&@%+ REMOVE SAFELIST :are supported by this server
+[21-04-17 16:36:09]:irc.evilcorp.ga 005 Megatron STATUSMSG=!~&@%+ TOPICLEN=307 USERLEN=10 VBANLIST WATCH=30 WHOX :are supported by this server
+[21-04-17 16:36:09]:irc.evilcorp.ga 251 Megatron :There are 25 users and 3 invisible on 2 servers
+[21-04-17 16:36:09]:irc.evilcorp.ga 252 Megatron 3 :operator(s) online
+[21-04-17 16:36:09]:irc.evilcorp.ga 253 Megatron 1 :unknown connections
+[21-04-17 16:36:09]:irc.evilcorp.ga 254 Megatron 9 :channels formed
+[21-04-17 16:36:09]:irc.evilcorp.ga 255 Megatron :I have 10 clients and 1 servers
+[21-04-17 16:36:09]:irc.evilcorp.ga 265 Megatron :Current local users: 10  Max: 87
+[21-04-17 16:36:09]:irc.evilcorp.ga 266 Megatron :Current global users: 28  Max: 105
+[21-04-17 16:36:09]:irc.evilcorp.ga 375 Megatron :irc.evilcorp.ga message of the day
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» irc.evilcorp.ga message of the day
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» -  _____       _ _  ____
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - | ____|_   _(_) |/ ___|___  _ __ _ __
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - |  _|   / / | | |   / _ | '__| '_ 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - | |___  V /| | | |__| (_) | |  | |_) |
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - |_____| _/ |_|_|_______/|_|  | .__/
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Welcome to the EvilCorp Network.
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Please contact riverdusty@protonmail.com with any queries
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Official Channels]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Users Channel:                                #lobby
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - New Users Channel:                            #lan
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Server Owner]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - dusty
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Staff Members - NetAdmins]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Jaxx
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Staff Members - Global Ops]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - TripleZer0
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Dusted
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Shadow_Lobster
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - NexusNull
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» -
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Network-Websites - Clearnet & Tor]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Main Site (Wiki):                 https://www.evilcorp.ga
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Webchat (Clearnet):               https://irc.evilcorp.ga
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Network Information]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Primary Server:                   irc.evilcorp.ga
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Port Information]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Default IRC Port:                 6667 (DISABLED)
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - Secure IRC Port:                  6697
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - 
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - [Services we provide]
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - NickServ:                         Register, identify, and protect your nickname
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - MemoServ:                         Send messages to registered users even when they offline
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - HostServ:                         Take a vhost for your account.
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - ChanServ:                         Register channels and manage them.
+[21-04-17 16:36:09]:irc.evilcorp.ga 372 Megatron :- »» - BotServ:                          Assign some "special" ChanServ alternatives to your chan
+[21-04-17 16:36:09]:irc.evilcorp.ga 376 Megatron :End of message of the day.
+[21-04-17 16:36:09]:irc.evilcorp.ga NOTICE Megatron :Setting your virtual host: irc.evilcorp.ga
+[21-04-17 16:36:09]:irc.evilcorp.ga 396 Megatron irc.evilcorp.ga :is now your displayed host
+[21-04-17 16:36:09]:irc.evilcorp.ga NOTICE Megatron :*** You are connected to irc.evilcorp.ga using SSL cipher 'TLS1.2-ECDHE-RSA-AES-256-GCM-AEAD'
+[21-04-17 16:36:09]:NickServ!services@services.evil NOTICE Megatron :This nickname is registered and protected.  If it is your
+[21-04-17 16:36:09]:NickServ!services@services.evil NOTICE Megatron :nick, type /msg NickServ IDENTIFY password.  Otherwise,
+[21-04-17 16:36:09]:NickServ!services@services.evil NOTICE Megatron :please choose a different nick.
+[21-04-17 16:36:09]:NickServ!services@services.evil NOTICE Megatron :If you do not change within 1 minute, I will change your nick.
+[21-04-17 16:36:09]:NickServ!services@services.evil NOTICE Megatron :Password accepted - you are now recognized.
+[21-04-17 16:36:09]:irc.evilcorp.ga 900 Megatron Megatron!BASHBOT@irc.evilcorp.ga Megatron :You are now logged in as Megatron
+[21-04-17 16:36:09]:irc.evilcorp.ga 396 Megatron The.Punisher :is now your displayed host
+[21-04-17 16:36:09]:HostServ!services@services.evil NOTICE Megatron :Your vhost of The.Punisher is now activated.
+[21-04-17 16:36:10]:NickServ!services@services.evil MODE Megatron :+rw
+[21-04-17 16:36:10]:Megatron!BASHBOT@The.Punisher JOIN :#lobby
+[21-04-17 16:36:10]:irc.evilcorp.ga 332 Megatron #lobby :❄️ Welcome to #Lobby ❄️ Main site (wiki): https://evilcorp.ga ❄️ #lobby rules: https://wiki.evilcorp.ga/index.php?title=Rules
+[21-04-17 16:36:10]:irc.evilcorp.ga 333 Megatron #lobby Jaxx!Jaxx@Ultimate.Warrior :1610434153
+[21-04-17 16:36:10]:irc.evilcorp.ga 353 Megatron * #lobby :+Robz +Akuma &TripleZer0 Guest34678 &MrRobot !dusty Megatron !Jaxx sunnax !Shadow_Lobster
+[21-04-17 16:36:10]:irc.evilcorp.ga 366 Megatron #lobby :End of /NAMES list.
+[21-04-17 16:36:10]:Megatron!BASHBOT@The.Punisher JOIN :#bots
+[21-04-17 16:36:10]:irc.evilcorp.ga 353 Megatron = #bots :@Megatron
+[21-04-17 16:36:10]:irc.evilcorp.ga 366 Megatron #bots :End of /NAMES list.
+[21-04-17 16:36:10]:Megatron!BASHBOT@The.Punisher JOIN :#lair
+[21-04-17 16:36:10]:irc.evilcorp.ga 332 Megatron #lair :BASH WIZARD LAIR!!! !unohelp to show commands
+[21-04-17 16:36:10]:irc.evilcorp.ga 333 Megatron #lair TripleZer0!000@Golden.Legend :1618778108
+[21-04-17 16:36:10]:irc.evilcorp.ga 353 Megatron = #lair :~TripleZer0 Megatron unoBot !Shadow_Lobster
+[21-04-17 16:36:10]:irc.evilcorp.ga 366 Megatron #lair :End of /NAMES list.
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga NOTICE Megatron :[#lobby] 13 1.) Do not harass anyone - no name calling, shitposting, trolling or bullying.
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga NOTICE Megatron :[#lobby] 13 2.) Do not discuss, upload or share child porn-related material,violence,gore,zoophilia (including corpses).
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga NOTICE Megatron :[#lobby] 13 3.) Do not discuss attacking and doxxing of: guests , members , staff , sites , services and servers of this chat.
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga NOTICE Megatron :[#lobby] 13 4.) Do not spam in any way (including (CTCP requests etc.)
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga NOTICE Megatron :[#lobby] 13 5.) Keep the drama off #Lobby
+[21-04-17 16:36:10]:MrRobot!MrRobot@evilcorp.ga MODE #lobby +o :Megatron
+[21-04-17 16:36:10]:unoBot!unoBot@irc.evilcorp.ga NOTICE Megatron :Welcome to uno - type !unohelp for quick intro to game
+[21-04-17 16:37:00]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lobby :I can now speak how i please
+[21-04-17 16:38:55]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :ACTION is unstoppable
+[21-04-17 16:40:18]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:40:18]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:40:19]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:40:26]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 16:40:27]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 16:40:27]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 16:40:32]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:40:32]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:40:33]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:40:33]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:40:36]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:41:41]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:41:49]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:41:52]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 16:41:52]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 16:41:52]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:41:54]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:41:54]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:41:55]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 16:41:59]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:41:59]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:41:59]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:42:00]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:42:02]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:42:02]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 00,03GREEN REVERSE
+[21-04-17 16:42:03]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron it is your turn.
+[21-04-17 16:42:03]:unoBot!unoBot@irc.evilcorp.ga NOTICE Megatron :[01,04RED SKIP, 00,03GREEN THREE, 00,02BLUE TWO, 00,02BLUE THREE, 00,02BLUE FOUR, 00,02BLUE EIGHT, 00,02BLUE EIGHT]
+[21-04-17 16:42:13]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:42:13]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:42:44]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:42:44]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:42:45]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:42:47]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:42:47]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:42:48]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:42:48]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:42:54]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:42:54]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW ONE
+[21-04-17 16:42:54]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:43:02]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!play green three
+[21-04-17 16:43:02]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Sorry TripleZer0 that card is not playable now.
+[21-04-17 16:43:11]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!play yellow four
+[21-04-17 16:43:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW FOUR
+[21-04-17 16:43:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:43:19]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:43:19]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:43:40]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:43:48]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:43:50]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:43:50]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:43:51]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:43:54]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:43:54]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:43:55]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:43:55]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:43:59]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:43:59]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW TWO
+[21-04-17 16:43:59]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:44:06]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:44:06]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:44:31]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:44:41]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:45:05]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:45:05]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:45:06]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:45:07]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:45:07]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:45:07]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:45:08]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:45:11]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:45:20]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:45:33]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:45:37]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 16:45:37]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:45:37]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 1 people playing
+[21-04-17 16:45:38]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:45:38]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 16:45:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:45:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:45:41]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:46:59]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:47:08]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:47:10]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:47:10]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:47:11]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:47:11]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:47:15]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:47:16]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW SIX
+[21-04-17 16:47:16]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:47:26]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:47:27]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:48:29]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:48:37]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:48:38]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:48:38]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:48:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:48:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:48:41]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:48:41]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 00,02BLUE THREE
+[21-04-17 16:48:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:48:44]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:48:45]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:50:36]PING :irc.evilcorp.ga
+[21-04-17 16:52:36]PING :irc.evilcorp.ga
+[21-04-17 16:54:36]PING :irc.evilcorp.ga
+[21-04-17 16:56:06]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:56:22]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:56:27]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:56:27]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:56:27]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:56:28]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:56:31]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:56:38]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 16:56:38]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 16:56:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 16:56:42]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:56:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 00,02BLUE SKIP
+[21-04-17 16:56:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:57:02]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:57:02]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 16:58:38]PING :irc.evilcorp.ga
+[21-04-17 16:58:54]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 16:59:38]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 16:59:43]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 16:59:43]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 16:59:44]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 16:59:44]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 16:59:45]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:59:51]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 16:59:51]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 16:59:52]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 16:59:53]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 16:59:53]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW ONE
+[21-04-17 16:59:54]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 16:59:58]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 16:59:58]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:01:51]PING :irc.evilcorp.ga
+[21-04-17 17:02:02]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:02:35]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:02:40]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:02:54]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 17:03:03]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:03:11]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:03:13]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:03:21]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:03:48]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:03:50]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:03:50]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:03:51]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:03:51]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:03:55]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:04:13]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:04:21]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:04:24]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:04:53]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:05:09]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:05:10]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:05:15]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:05:37]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:05:50]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:05:52]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:06:10]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:06:18]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:06:20]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:06:25]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 17:08:18]PING :irc.evilcorp.ga
+[21-04-17 17:09:18]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:09:41]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:09:42]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:09:44]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:09:50]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 17:10:29]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:10:40]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:10:42]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:10:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:10:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:10:43]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:10:46]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:10:56]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:11:07]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:11:08]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:11:09]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:11:09]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:11:10]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:11:11]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:11:18]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 17:11:19]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 17:11:19]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 17:11:25]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:11:25]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 00,03GREEN FIVE
+[21-04-17 17:11:25]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 17:11:29]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:11:29]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:12:31]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:12:39]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:12:42]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:12:58]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:13:08]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:13:10]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:13:11]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:13:11]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:13:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:13:14]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:13:23]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:13:51]:Tripzeee!000@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:13:52]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Tripzeee there is a game in progress, type !join to play.
+[21-04-17 17:13:54]:Tripzeee!000@irc.evilcorp.ga PRIVMSG #lair :!join
+[21-04-17 17:13:55]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Tripzeee has joined.
+[21-04-17 17:13:55]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 17:13:58]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 17:13:58]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 17:13:58]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 3 people playing
+[21-04-17 17:14:01]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:14:03]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:14:03]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Sorry a game is already started in #lair
+[21-04-17 17:14:17]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:14:25]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!join
+[21-04-17 17:14:26]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0, you are already playing.
+[21-04-17 17:14:26]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 3 people playing
+[21-04-17 17:14:28]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:14:28]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Sorry a game is already started in #lair
+[21-04-17 17:14:33]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:14:33]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:14:38]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:14:38]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:14:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:14:39]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:14:42]:Tripzeee!000@irc.evilcorp.ga PRIVMSG #lair :!join
+[21-04-17 17:14:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Tripzeee has joined.
+[21-04-17 17:14:42]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 17:14:43]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 17:14:43]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 17:14:44]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 3 people playing
+[21-04-17 17:14:49]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:14:59]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:14:59]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:15:01]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:15:01]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:15:02]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:15:02]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:15:11]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:15:14]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 17:15:14]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 17:15:14]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 17:15:16]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:15:16]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW SKIP
+[21-04-17 17:15:17]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 17:15:24]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:15:24]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:16:01]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:16:09]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:16:11]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:16:11]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:16:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:16:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:16:14]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:16:14]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,04RED EIGHT
+[21-04-17 17:16:15]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 17:16:26]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgam
+[21-04-17 17:16:28]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:16:28]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:18:02]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:18:09]PING :irc.evilcorp.ga
+[21-04-17 17:18:11]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:18:12]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!uno
+[21-04-17 17:18:12]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 has joined.
+[21-04-17 17:18:13]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :type !join to join the game.
+[21-04-17 17:18:13]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :player who typed !uno (TripleZer0) - can start the game with !deal.
+[21-04-17 17:18:15]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:18:15]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :You need 2 or more players!
+[21-04-17 17:18:18]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:18:18]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :You need 2 or more players!
+[21-04-17 17:18:26]:Tripzeee!000@irc.evilcorp.ga PRIVMSG #lair :!join
+[21-04-17 17:18:26]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Tripzeee has joined.
+[21-04-17 17:18:26]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 2 people playing
+[21-04-17 17:18:29]:TripleZer0!000@Golden.Legend PRIVMSG Megatron :-botspeak PRIVMSG #lair :!join
+[21-04-17 17:18:29]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Megatron has joined.
+[21-04-17 17:18:30]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :There are now 3 people playing
+[21-04-17 17:18:32]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!deal
+[21-04-17 17:18:32]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Top Card: 01,08YELLOW REVERSE
+[21-04-17 17:18:33]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0 it is your turn.
+[21-04-17 17:18:40]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!endgame
+[21-04-17 17:18:41]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :The game was ended by TripleZer0
+[21-04-17 17:19:47]:unoBot!unoBot@irc.evilcorp.ga QUIT :Connection closed
+[21-04-17 17:19:56]:unoBot!unoBot@irc.evilcorp.ga JOIN :#lair
+[21-04-17 17:21:04]:TripleZer0!000@Golden.Legend PRIVMSG #lair :!rank
+[21-04-17 17:21:05]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :Shadow_Lobster: 180,  1 wins, 2 losses
+[21-04-17 17:21:05]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :rachad: 173,  2 wins, 1 losses
+[21-04-17 17:21:05]:unoBot!unoBot@irc.evilcorp.ga PRIVMSG #lair :TripleZer0: 51,  0 wins, 3 losses
+[21-04-17 17:21:08]:Tripzeee!000@irc.evilcorp.ga PART #lair :Leaving
+[21-04-17 17:21:56]PING :irc.evilcorp.ga
+[21-04-17 17:23:56]PING :irc.evilcorp.ga
+[21-04-17 17:25:56]PING :irc.evilcorp.ga
+[21-04-17 17:27:56]PING :irc.evilcorp.ga
+[21-04-17 17:29:56]PING :irc.evilcorp.ga
+[21-04-17 17:31:56]PING :irc.evilcorp.ga

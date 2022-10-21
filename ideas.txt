@@ -1,0 +1,10 @@
+:PatientZer0!000@EvilCorp49h.ct9.24cvif.IP PRIVMSG #lobby :-send idea :PPPPPPPPPP 8ball.txt bot.properties bot.sh ideas.txt log.txt u 000 XD
+:Kano!Kano@Ultimate.Warrior PRIVMSG #lobby :-send idea Make the urban command to do more than 1 word when using -urban
+:Kano!Kano@Ultimate.Warrior PRIVMSG #lobby :-send idea Make a youtube command and a imdb command
+:TripleZer0!TripleZer0@EvilCorp7ud.jk8.3hls17.IP PRIVMSG #lobby :-send idea urban command high displays emojis :P
+:TripleZer0!TripleZer0@EvilCorp7ud.jk8.3hls17.IP PRIVMSG #lobby :-send idea ....-create "command", response
+:TripleZer0!TripleZer0@EvilCorp7ud.jk8.3hls17.IP PRIVMSG #lobby :-send idea Dusted believes in ur skill to create an AI for a self learning bot HAHA
+:TripleZer0!TripleZer0@EvilCorp7ud.jk8.3hls17.IP PRIVMSG #lobby :-send idea make sure user is registered for -create command thing
+:_^Catty^_!Catty@Cute.Cat PRIVMSG #lobby :-send idea mak tron post onion links titlecaption
+:rachad!rachad@Truth.Keeper PRIVMSG #lobby :-send idea
+:TripleZer0!000@Golden.Legend PRIVMSG #lobby :-send idea TripleZer0 sucks at coding :P

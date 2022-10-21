@@ -1,0 +1,41 @@
+   #!/usr/bin/env bash
+
+function command_exists () {
+    type "$1" &> /dev/null ;
+}
+
+function print_error() {
+    printf "\e[31m Error \e[0m: %s \n" "$1" 
+}
+
+# Check that required tools are installed
+if ! command_exists lynx; then
+    print_error "you need lynx to run this program. please visit: http://lynx.browser.org/"  
+    exit 1  
+fi
+
+if ! command_exists hxnormalize || ! command_exists hxselect; then
+    print_error "you need html-xml-utils to run this program. please visit http://packages.ubuntu.com/trusty/text/html-xml-utils"  
+    exit 1  
+fi
+
+# Check parameter
+if [[  $# -eq 0 ]]; then
+    print_error "usage: $0 \"<term to find>\""  
+    exit 1  
+fi
+content=$(wget -O - -q "http://www.urbandictionary.com/define.php?term=$1" |
+        hxnormalize -x 2>/dev/null |
+        hxselect -i 'div.def-panel:first-child')
+
+meaning=$(echo "${content}" | hxselect -i "div.meaning")
+example=$(echo "${content}" | hxselect -i "div.example")
+topDefinition=$(printf "\n%s%s%s\n" \
+"<hr /><div>searching for: $1</div>" \
+"<div>Meaning</div>${meaning}" \
+"<div>Examples</div>${example}<hr />")  
+
+printf "\n"
+echo ${topDefinition} | lynx -dump -stdin
+printf "\n"
+

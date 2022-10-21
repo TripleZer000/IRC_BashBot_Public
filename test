@@ -1,0 +1,11 @@
+#!/bin/bash
+
+test=$(./urban pool) 
+poo=$(echo "$test" | sed -n "/Meaning/,/Examples/p")
+echo $poo
+
+#boo=$(echo "$test" | sed -e "s/.*Meaning\(.*\)Examples.*/\1/")
+#echo $boo
+#echo ...nope...
+#poo=$(echo "$boo" | sed -e "s/.*Meaning\(.*\)Refrences.*/\1/")
+#echo $poo
